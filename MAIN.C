@@ -35,13 +35,13 @@ void main()
     firstrec = NULL;
     while(inc<3)
     {
-		printf("\t\t\t============================================\n");
+		printf("\t\t\t==============================================\n");
 		printf("\t\t\t\t*****USER LOGIN********\n");
 		printf("\t\t\tYou have only three chance to LOG IN \n");
 		printf("\t\t\t============================================\n");
 		printf("\t\t\t\tEnter your username:");
 		gets(username);
-		printf("\t\t\t============================================\n");
+		printf("\t\t\t==============================================\n");
 		printf("\t\t\tEnter your 8 digits password:");
 		for(i = 0;i <8;i++)
 		{
